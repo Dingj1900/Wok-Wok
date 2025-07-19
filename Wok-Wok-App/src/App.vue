@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import FrontPage from './components/FrontPage.vue';
+import FrontPage from './views/FrontPageView.vue';
 import NavBar from './components/NavBar.vue'
 </script>
 
