@@ -1,14 +1,12 @@
 <script setup lang="ts">
-import FrontPage from './views/FrontPageView.vue';
-import NavBar from './components/NavBar.vue'
+import NavBar from './components/NavBar.vue';
 </script>
 
 <template>
   <div>
-    
-    <FrontPage></FrontPage>
-
     <NavBar></NavBar>
+    <router-view></router-view>
+
   </div>
 </template>
 

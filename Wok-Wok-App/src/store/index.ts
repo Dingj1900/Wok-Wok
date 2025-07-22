@@ -5,7 +5,16 @@ export function createStore(){
     state: {
       
     },
+    //for changing state, sync
     mutations: {
+
+    },
+    //for api, async
+    actions:{
+
+    },
+    //for multiple states
+    modules: {
 
     }
   });
