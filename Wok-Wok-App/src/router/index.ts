@@ -1,11 +1,14 @@
 import {createRouter as createRouter, createWebHistory} from 'vue-router'
 import useStore from 'vuex'
 
+//views
+import FrontPageView from '../views/FrontPageView.vue';
+
 const routes = [
     {
-        path : '/FrontPageView',
+        path : '/',
         name : 'frontPage',
-        component: 'HomeView',
+        component: FrontPageView,
         meta : { 
             requiresAuth: false
         }
