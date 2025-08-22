@@ -3,6 +3,7 @@ import useStore from 'vuex'
 
 //views
 import FrontPageView from '../views/FrontPageView.vue';
+import MenuView from '../views/MenuView.vue';
 
 const routes = [
     {
@@ -11,6 +12,14 @@ const routes = [
         component: FrontPageView,
         meta : { 
             requiresAuth: false
+        }
+    },
+    {
+        path : '/',
+        name : 'menuPage',
+        component : MenuView,
+        meta : {
+            requiresAuth : false
         }
     }
 ];

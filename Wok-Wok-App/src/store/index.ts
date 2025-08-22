@@ -4,6 +4,7 @@ export function createStore(){
   let store = _createStore({
     state: {
       
+      
     },
     //for changing state, sync
     mutations: {
