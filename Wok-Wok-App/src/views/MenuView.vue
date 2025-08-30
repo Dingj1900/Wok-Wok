@@ -1,5 +1,6 @@
 <template>
   <div class = "menu">
+
     <div class = "sideBar">
       <MenuSideBar></MenuSideBar>
     </div>
@@ -8,6 +9,9 @@
       <MenuDisplay></MenuDisplay>
     </div>
     
+    <div class = "orderList">
+      <MenuOrderList></MenuOrderList>
+    </div>
 
   </div>
 </template>
@@ -15,13 +19,11 @@
 <style scoped>
 #menu{
   align-items: center;
-  display: flex;
+  display: grid;
+  grid-template-columns: auto;
 
 }
 
-#menu-item{
-
-}
 
 
 </style>
@@ -30,5 +32,6 @@
 
 import MenuSideBar from '../components/MenuComponents/MenuSideBar.vue';
 import MenuDisplay from '../components/MenuComponents/MenuDisplay.vue';
+import MenuOrderList from '../components/MenuComponents/MenuOrderList.vue'
 
 </script>

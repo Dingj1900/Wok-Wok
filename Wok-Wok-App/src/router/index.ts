@@ -15,7 +15,7 @@ const routes = [
         }
     },
     {
-        path : '/',
+        path : '/menuPage',
         name : 'menuPage',
         component : MenuView,
         meta : {

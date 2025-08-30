@@ -3,12 +3,15 @@
   <ul class = 'nav-list'>
     <li class ='nav-item'>Home</li>
     
-    <li class = 'nav-item'>Menu</li>
+    <li class = 'nav-item' v-on:click="toMenu">Menu</li>
 
   </ul>
+  </div>
+  
 
   <div class = 'login'>
     Login
+  </div>
   </div>
 
 </nav>
@@ -40,5 +43,10 @@
 </style>
 
 <script setup lang =ts>
+import router from '../router';
+
+toMenu(){
+  this.$router.push('/menuPage');
+}
 
 </script>

@@ -1,1 +1,152 @@
-{}
+{
+  "Appetizer" : 
+  [
+    {
+      "value" : "9",
+      "name"  : "Egg Roll",
+      "price" : [
+        1.80
+      ]
+    },
+    {
+      "value" : "9a",
+      "name"  : "Shrimp Egg Roll",
+      "price" : [
+        2.10
+      ]
+    },
+    {
+      "value" : "10",
+      "name"  : "Spring Rolls (Vegetable) (2)",
+      "price" : [
+        2.95
+      ]
+    },
+    {
+      "value" : "11",
+      "name"  : "Thai Rolls (Chicken) (2)",
+      "price" : [
+        2.95
+      ]
+    },
+    {
+      "value" : "12",
+      "name"  : "Pork Dumplings",
+      "price" : [
+        7.95
+      ],
+      "option" :[
+        "Fried",
+        "Steamed" 
+      ]
+    },
+    {
+      "value" : "13",
+      "name"  : "Chicken Dumplings",
+      "price" : [
+        7.95
+      ],
+      "option" :[
+        "Fried",
+        "Steamed" 
+      ]
+    },
+    {
+      "value" : "14",
+      "name"  : "Crab Rangoon (4)",
+      "price" : [
+        3.60
+      ]
+    },
+    {
+      "value" : "15",
+      "name"  : "Chicken on the Stick (4)",
+      "price" : [
+        6.95
+      ]
+    },
+    {
+      "value" : "16",
+      "name"  : "Beef on the Stick (4)",
+      "price" : [
+        7.95
+      ]
+    },
+    {
+      "value" : "17",
+      "name"  : "BBQ Boneless Ribs",
+      "price" : [
+        7.95,
+        12.00
+      ]
+      
+    },
+    {
+      "value" : "18",
+      "name"  : "BBQ Bone Ribs (3)",
+      "price" : [
+        8.95
+      ]
+    },
+    {
+      "value" : "19",
+      "name"  : "Crispy Wontons",
+      "price" : [
+        5.25
+      ],
+      "option" :[
+        "Fried",
+        "Pan-Fried"
+      ]
+    },
+    {
+      "value" : "20",
+      "name"  : "Chicken Wings (5)",
+      "price" : [
+        6.75
+      ]
+    },
+    {
+      "value" : "21",
+      "name"  : "Fried Half Chicken",
+      "price" : [
+        7.5
+      ]
+    },
+    {
+      "value" : "22",
+      "name"  : "Fried Jumbo Shrimp",
+      "price" : [
+        7.95
+      ]
+    },
+    {
+      "value" : "23",
+      "name"  : "Shrimp Toast",
+      "price" : [
+        5.25
+      ]
+    },
+    {
+      "value" : "24",
+      "name"  : "Donuts",
+      "price" : [
+        3.95
+      ]
+    },
+    {
+      "value" : "25",
+      "name"  : "Pu Pu Platter",
+      "price" : [
+        12.25
+      ],
+      "description" : "2 egg rolls, 2 Fried Wontons, 2 Fried Shrimp, 2, Shrimp Toast, 2 Wings, 2 Ribs, 2 Chicken on the Stick"
+    }
+    
+
+
+
+  ]
+
+
+}

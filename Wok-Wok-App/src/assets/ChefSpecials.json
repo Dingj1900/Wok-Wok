@@ -4,49 +4,65 @@
     { 
       "value" : "S1",
       "name" : "Club Seafood",
-      "dinner-price": 13.95,
+      "price": [
+        13.95
+      ],
       "description" : "Fresh jumbo shrimp, scallop, crab meat sautéed w. assorted Chinese vegetable in a special white sauce "
     },
     {
       "value":"S2",
       "name" : "Happy Family",
-      "dinner-price": 13.00,
+      "price": [
+        13.00
+      ],
       "description" : "Chicken, beef, pork, jumbo shrimp, scallop w. mix veggies in brown sauce " 
     },
     { 
       "value":"S3",
       "name" : "New York, New York",
-      "dinner-price": 13.50,
+      "price": [
+        13.50
+      ],
       "description" : "Sweet & sour chicken on the side; Chicken, pork, jumbo shrimp, beef, scallop w. mix veggies in brown sauce "
     },
     {
       "value":"S4",
       "name" : "Subgum Wonton",
-      "dinner-price": 13.00,
+      "price": [
+        13.00
+      ],
       "description" : "Crispy Wontons on the side; Chicken, pork, jumbo shrimp, beef w, mix veggies"
     },
     {
       "value":"S5",
       "name" : "Beef & Scallops",
-      "dinner-price": 13.95,
+      "price": [
+        13.95
+      ],
       "description" : "Fresh scallops, stir-fried beef w. mix veggies"
     },
     {
       "value":"S6",
       "name" : "Dragon & Phoenix Delight",
-      "dinner-price": 12.75,
+      "price": [
+        12.75
+      ],
       "description" : "Half crispy General Tso's Chicken; Half jumbo shrimp w. mix veggies in white sauce"
     },
     {
       "value":"S7",
       "name" : "Hawaii Five 'O'",
-      "dinner-price": 13.95,
+      "price": [
+        13.95
+      ],
       "description" : "Fried Jumbo shrimp on the side; Chicken, pork, scallop, crab meat w. mix veggies"
     },
     {
       "value":"S8",
       "name" : "Shrimp, Chicken, Beef Hunan Style",
-      "dinner-price": 13.00,
+      "price": [
+        13.00
+      ],
       "description" : "Jumbo Shrimp, chicken, beef w. mix veggies"
     }
 
